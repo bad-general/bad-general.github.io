@@ -1,1 +1,1 @@
-Hello world,I an bad-general!
+Hello world,I am bad-general!
